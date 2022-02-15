@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QRLibrary", "ClassLibrary1\QRLibrary.csproj", "{EA52D87C-6B91-457D-A209-F1FE2F36ADE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{0AF5EAC4-9768-4784-988B-169CB75A9DF9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRform", "QRform\QRform.csproj", "{3BFFE4B4-A3FD-4888-8AF3-C2476BDE2F99}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{EA52D87C-6B91-457D-A209-F1FE2F36ADE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA52D87C-6B91-457D-A209-F1FE2F36ADE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA52D87C-6B91-457D-A209-F1FE2F36ADE7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0AF5EAC4-9768-4784-988B-169CB75A9DF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0AF5EAC4-9768-4784-988B-169CB75A9DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0AF5EAC4-9768-4784-988B-169CB75A9DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0AF5EAC4-9768-4784-988B-169CB75A9DF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BFFE4B4-A3FD-4888-8AF3-C2476BDE2F99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BFFE4B4-A3FD-4888-8AF3-C2476BDE2F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BFFE4B4-A3FD-4888-8AF3-C2476BDE2F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BFFE4B4-A3FD-4888-8AF3-C2476BDE2F99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
